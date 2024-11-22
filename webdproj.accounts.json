@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "662ad2e7938c2cc18a2e7f63"
+  },
+  "email": "asinamdar2024@gmail.com",
+  "username": "Niketw",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJHMwZkdnT2RXYlJubjQ5ZDRiTnVGcmVaWEpRMlBQV1pjSFdjWThqU0Y0ZjhNT05CRC9ZbkR5",
+      "subType": "00"
+    }
+  },
+  "cart": [],
+  "logged_in": false
+},
+{
+  "_id": {
+    "$oid": "6627d88d4336e744f8b63156"
+  },
+  "email": "pratikkhatri417@gmail.com",
+  "username": "pratik",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJHFaVHBvZ3AxYUVzT0tSNm1qT2ZJQXVMVkNrVkJnODJPN1JSbDdwUmVOdkxVbFpYSENjc091",
+      "subType": "00"
+    }
+  },
+  "cart": [
+    "66297afc4337221d9ef5c669",
+    "6629d97bb7cec8e273004bbc",
+    "66297afc4337221d9ef5c669",
+    "66297a174337221d9ef5c666",
+    "66297a174337221d9ef5c666"
+  ],
+  "logged_in": false
+},
+{
+  "_id": {
+    "$oid": "662b7dd9fe20c3d55e18d098"
+  },
+  "email": "seearun20@gmail.com",
+  "username": "Arun PAPA",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJFIwU3pKcWttNDNnU0tpRUl6a3VDZHUzem96SjBYMXRaLmY0MU5acUFoTHNMS3JhOUpMbmRl",
+      "subType": "00"
+    }
+  },
+  "cart": [
+    "662ba43287415c02f6fd0f32"
+  ],
+  "logged_in": false
+}]

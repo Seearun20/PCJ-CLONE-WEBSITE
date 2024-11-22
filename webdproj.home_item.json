@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "662a284888b29545dce7ef89"
+  },
+  "image": "../static/assets/home_image_1.jpg",
+  "text": "",
+  "collection": "dashavatar"
+},
+{
+  "_id": {
+    "$oid": "662a28c988b29545dce7ef8c"
+  },
+  "image": "../static/assets/home_image_2.jpg",
+  "text": "",
+  "collection": "plique-A'-jour"
+},
+{
+  "_id": {
+    "$oid": "662a28e288b29545dce7ef8d"
+  },
+  "image": "../static/assets/home_image_3.jpg",
+  "text": "",
+  "collection": "anant"
+},
+{
+  "_id": {
+    "$oid": "662a28f188b29545dce7ef8e"
+  },
+  "image": "../static/assets/home_image_4.jpg",
+  "text": "",
+  "collection": "mirosa"
+},
+{
+  "_id": {
+    "$oid": "662a28fa88b29545dce7ef8f"
+  },
+  "image": "../static/assets/home_image_5.jpg",
+  "text": "",
+  "collection": "initials"
+},
+{
+  "_id": {
+    "$oid": "662a294a88b29545dce7ef90"
+  },
+  "image": "../static/assets/home_image_6.jpg",
+  "text": "",
+  "collection": "amour"
+},
+{
+  "_id": {
+    "$oid": "662a295288b29545dce7ef91"
+  },
+  "image": "../static/assets/home_image_7.jpg",
+  "text": "",
+  "collection": "twinning"
+},
+{
+  "_id": {
+    "$oid": "662a296d88b29545dce7ef92"
+  },
+  "image": "../static/assets/home_image_8.jpg",
+  "text": "",
+  "collection": "inayat"
+},
+{
+  "_id": {
+    "$oid": "662a297488b29545dce7ef93"
+  },
+  "image": "../static/assets/home_image_9.jpg",
+  "text": "",
+  "collection": "ladanza"
+}]

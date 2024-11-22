@@ -1,0 +1,491 @@
+[{
+  "_id": {
+    "$oid": "66295f6ac0f918ac0b7a6537"
+  },
+  "type": "ring",
+  "image_url": "../static/assets/ring_1.jpg",
+  "price": 69420,
+  "hover_image": "../static/assets/ring_1_hover.jpg",
+  "discription": "new A ring",
+  "collection": "dashavatar"
+},
+{
+  "_id": {
+    "$oid": "662962ce4f62d8a47eb4b992"
+  },
+  "type": "ring",
+  "image_url": "../static/assets/ring_2.jpg",
+  "price": 69420,
+  "hover_image": "../static/assets/ring_2_hover.jpg",
+  "discription": "new A ring",
+  "collection": "plique-A'-jour"
+},
+{
+  "_id": {
+    "$oid": "662962db4f62d8a47eb4b993"
+  },
+  "type": "ring",
+  "image_url": "../static/assets/ring_3.jpg",
+  "price": 10000,
+  "hover_image": "../static/assets/ring_3_hover.jpg",
+  "discription": "new B ring",
+  "collection": "plique-A'-jour"
+},
+{
+  "_id": {
+    "$oid": "662974624337221d9ef5c660"
+  },
+  "type": "ring",
+  "image_url": "../static/assets/ring_4.jpg",
+  "price": 14445,
+  "hover_image": "../static/assets/ring_4_hover.jpg",
+  "discription": "new S class ring",
+  "collection": "plique-A'-jour"
+},
+{
+  "_id": {
+    "$oid": "6629783f4337221d9ef5c661"
+  },
+  "type": "ring",
+  "image_url": "../static/assets/ring_5.jpg",
+  "price": 64555,
+  "hover_image": "../static/assets/ring_5_hover.jpg",
+  "discription": "New S designed",
+  "collection": "plique-A'-jour"
+},
+{
+  "_id": {
+    "$oid": "662979004337221d9ef5c662"
+  },
+  "type": "ring",
+  "image_url": "../static/assets/ring_6.jpg",
+  "price": 23999,
+  "hover_image": "../static/assets/ring_6_hover.jpg",
+  "discription": "crystel modern design",
+  "collection": "dashavatar"
+},
+{
+  "_id": {
+    "$oid": "662979494337221d9ef5c663"
+  },
+  "type": "ring",
+  "image_url": "../static/assets/ring_7.jpg",
+  "price": 15499,
+  "hover_image": "../static/assets/ring_7_hover.jpg",
+  "discription": "diamond v shape",
+  "collection": "plique-A'-jour"
+},
+{
+  "_id": {
+    "$oid": "662979984337221d9ef5c664"
+  },
+  "type": "ring",
+  "image_url": "../static/assets/ring_8.jpg",
+  "price": 17999,
+  "hover_image": "../static/assets/ring_8_hover.jpg",
+  "discription": "new classic S shape design",
+  "collection": "initials"
+},
+{
+  "_id": {
+    "$oid": "662979d74337221d9ef5c665"
+  },
+  "type": "ring",
+  "image_url": "../static/assets/ring_9.jpg",
+  "price": 19999,
+  "hover_image": "../static/assets/ring_9_hover.jpg",
+  "discription": "ring for mathematics lover",
+  "collection": "initials"
+},
+{
+  "_id": {
+    "$oid": "66297a174337221d9ef5c666"
+  },
+  "type": "ring",
+  "image_url": "../static/assets/ring_10.jpg",
+  "price": 27999,
+  "hover_image": "../static/assets/ring_10_hover.jpg",
+  "discription": "diamond 's special ring",
+  "collection": "initials"
+},
+{
+  "_id": {
+    "$oid": "66297a744337221d9ef5c667"
+  },
+  "type": "necklace",
+  "image_url": "../static/assets/necklace_1.jpg",
+  "price": 125999,
+  "hover_image": "../static/assets/necklace_1_hover.jpg",
+  "discription": "ancient designed necklace",
+  "collection": "initials"
+},
+{
+  "_id": {
+    "$oid": "66297ab64337221d9ef5c668"
+  },
+  "type": "necklace",
+  "image_url": "../static/assets/necklace_2.jpg",
+  "price": 219999,
+  "hover_image": "../static/assets/necklace_2_hover.jpg",
+  "discription": "new tranding designed necklace",
+  "collection": "initials"
+},
+{
+  "_id": {
+    "$oid": "66297afc4337221d9ef5c669"
+  },
+  "type": "necklace",
+  "image_url": "../static/assets/necklace_3.jpg",
+  "price": 199999,
+  "hover_image": "../static/assets/necklace_3_hover.jpg",
+  "discription": "crystel modern designed necklace",
+  "collection": "initials"
+},
+{
+  "_id": {
+    "$oid": "66297b3d4337221d9ef5c66a"
+  },
+  "type": "necklace",
+  "image_url": "../static/assets/necklace_4.jpg",
+  "price": 149999,
+  "hover_image": "../static/assets/necklace_4_hover.jpg",
+  "discription": "necklace inspired from sun ",
+  "collection": "ladanza"
+},
+{
+  "_id": {
+    "$oid": "66297b834337221d9ef5c66b"
+  },
+  "type": "necklace",
+  "image_url": "../static/assets/necklace_5.jpg",
+  "price": 278999,
+  "hover_image": "../static/assets/necklace_5_hover.jpg",
+  "discription": "new designed necklace",
+  "collection": "ladanza"
+},
+{
+  "_id": {
+    "$oid": "6629d8efb7cec8e273004bbb"
+  },
+  "type": "necklace",
+  "image_url": "../static/assets/necklace_6.jpg",
+  "price": 259999,
+  "hover_image": "../static/assets/necklace_6_hover.jpg",
+  "discription": "new classic modern designe",
+  "collection": "ladanza"
+},
+{
+  "_id": {
+    "$oid": "6629d97bb7cec8e273004bbc"
+  },
+  "type": "necklace",
+  "image_url": "../static/assets/necklace_7.jpg",
+  "price": 300999,
+  "hover_image": "../static/assets/necklace_7_hover.jpg",
+  "discription": "premium necklace by PCJ ",
+  "collection": "ladanza"
+},
+{
+  "_id": {
+    "$oid": "6629d9bab7cec8e273004bbd"
+  },
+  "type": "necklace",
+  "image_url": "../static/assets/necklace_8.jpg",
+  "price": 239999,
+  "hover_image": "../static/assets/necklace_8_hover.jpg",
+  "discription": "neacklace for bride",
+  "collection": "ladanza"
+},
+{
+  "_id": {
+    "$oid": "6629d9fdb7cec8e273004bbe"
+  },
+  "type": "necklace",
+  "image_url": "../static/assets/necklace_9.jpg",
+  "price": 215999,
+  "hover_image": "../static/assets/necklace_9_hover.jpg",
+  "discription": "classic necklace design by PCJ brothers",
+  "collection": "ladanza"
+},
+{
+  "_id": {
+    "$oid": "6629da52b7cec8e273004bbf"
+  },
+  "type": "necklace",
+  "image_url": "../static/assets/necklace_10.jpg",
+  "price": 245999,
+  "hover_image": "../static/assets/necklace_10_hover.jpg",
+  "discription": "premium necklace by PCJ ",
+  "collection": "ladanza"
+},
+{
+  "_id": {
+    "$oid": "6629dafbb7cec8e273004bc0"
+  },
+  "type": "ear_ring",
+  "image_url": "../static/assets/ear-ring_1.jpg",
+  "price": 56999,
+  "hover_image": "../static/assets/ear-ring_1_hover.jpg",
+  "discription": "premium ancient earing by PCJ"
+},
+{
+  "_id": {
+    "$oid": "6629db18b7cec8e273004bc1"
+  },
+  "type": "ear_ring",
+  "image_url": "../static/assets/ear-ring_1.jpg",
+  "price": 54999,
+  "hover_image": "../static/assets/ear-ring_1_hover.jpg",
+  "discription": "premium ancient designed earing by PCJ"
+},
+{
+  "_id": {
+    "$oid": "6629db5db7cec8e273004bc2"
+  },
+  "type": "ear_ring",
+  "image_url": "../static/assets/ear-ring_1.jpg",
+  "price": 54999,
+  "hover_image": "../static/assets/ear-ring_1_hover.jpg",
+  "discription": "premium ancient designed earing by PCJ"
+},
+{
+  "_id": {
+    "$oid": "6629f1b5a821398ee0781688"
+  },
+  "type": "ear_rings",
+  "image_url": "../static/assets/ear-ring_1.jpg",
+  "price": 54999,
+  "hover_image": "../static/assets/ear-ring_1_hover.jpg",
+  "discription": "premium ancient designed earing by PCJ"
+},
+{
+  "_id": {
+    "$oid": "662b7139fe20c3d55e18d096"
+  },
+  "type": "ear_rings",
+  "image_url": "../static/assets/ear-ring_2.jpg",
+  "price": 54999,
+  "hover_image": "../static/assets/ear-ring_2_hover.jpg",
+  "discription": "premium ancient designed earing by PCJ",
+  "collection": "dashavatar"
+},
+{
+  "_id": {
+    "$oid": "662b7160fe20c3d55e18d097"
+  },
+  "type": "ear_rings",
+  "image_url": "../static/assets/ear-ring_3.jpg",
+  "price": 45000,
+  "hover_image": "../static/assets/ear-ring_3_hover.jpg",
+  "discription": "new classic S shape design",
+  "collection": "dashavatar"
+},
+{
+  "_id": {
+    "$oid": "662b9c1691b513ca8b08d269"
+  },
+  "type": "ear_rings",
+  "image_url": "../static/assets/ear-ring_4.jpg",
+  "price": 20043,
+  "hover_image": "../static/assets/ear-ring_4_hover.jpg",
+  "discription": "The Nital Diamond Earrings",
+  "collection": "dashavatar"
+},
+{
+  "_id": {
+    "$oid": "662b9c5991b513ca8b08d26a"
+  },
+  "type": "ear_rings",
+  "image_url": "../static/assets/ear-ring_5.jpg",
+  "price": 4848,
+  "hover_image": "../static/assets/ear-ring_5_hover.jpg",
+  "discription": "The Diamond Silver Dragonfly Ear Cuff",
+  "collection": "dashavatar"
+},
+{
+  "_id": {
+    "$oid": "662b9c8791b513ca8b08d26b"
+  },
+  "type": "ear_rings",
+  "image_url": "../static/assets/ear-ring_6.jpg",
+  "price": 12000,
+  "hover_image": "../static/assets/ear-ring_6_hover.jpg",
+  "discription": "The Cesare Diamond Earrings",
+  "collection": "dashavatar"
+},
+{
+  "_id": {
+    "$oid": "662b9ce591b513ca8b08d26c"
+  },
+  "type": "ear_rings",
+  "image_url": "../static/assets/ear-ring_7.jpg",
+  "price": 17999,
+  "hover_image": "../static/assets/ear-ring_7_hover.jpg",
+  "discription": "The Balduin Diamond Earrings",
+  "collection": "anant"
+},
+{
+  "_id": {
+    "$oid": "662b9d4991b513ca8b08d26d"
+  },
+  "type": "ear_rings",
+  "image_url": "../static/assets/ear-ring_8.jpg",
+  "price": 23999,
+  "hover_image": "../static/assets/ear-ring_8_hover.jpg",
+  "discription": "The Gael Diamond Earrings",
+  "collection": "anant"
+},
+{
+  "_id": {
+    "$oid": "662b9d8091b513ca8b08d26e"
+  },
+  "type": "ear_rings",
+  "image_url": "../static/assets/ear-ring_9.jpg",
+  "price": 56999,
+  "hover_image": "../static/assets/ear-ring_9_hover.jpg",
+  "discription": "The Chandramukhi Diamond Earrings",
+  "collection": "anant"
+},
+{
+  "_id": {
+    "$oid": "662b9d9e91b513ca8b08d26f"
+  },
+  "type": "ear_rings",
+  "image_url": "../static/assets/ear-ring_10.jpg",
+  "price": 43999,
+  "hover_image": "../static/assets/ear-ring_10_hover.jpg",
+  "discription": "The Liyena Diamond Earrings",
+  "collection": "anant"
+},
+{
+  "_id": {
+    "$oid": "662b9e5091b513ca8b08d270"
+  },
+  "type": "bracelate",
+  "image_url": "../static/assets/bracelate_1.jpg",
+  "price": 155084,
+  "hover_image": "../static/assets/bracelate_1_hover.jpg",
+  "discription": "The Tyramon Diamond Bangle",
+  "collection": "mirosa"
+},
+{
+  "_id": {
+    "$oid": "662ba3ef87415c02f6fd0f31"
+  },
+  "type": "bracelates",
+  "image_url": "../static/assets/bracelate_1.jpg",
+  "price": 155084,
+  "hover_image": "../static/assets/bracelate_1_hover.jpg",
+  "discription": "The Tyramon Diamond Bangle",
+  "collection": "w"
+},
+{
+  "_id": {
+    "$oid": "662ba43287415c02f6fd0f32"
+  },
+  "type": "bracelates",
+  "image_url": "../static/assets/bracelate_2.jpg",
+  "price": 109999,
+  "hover_image": "../static/assets/bracelate_2_hover.jpg",
+  "discription": "The Nadira Diamond Bangle",
+  "collection": "mirosa"
+},
+{
+  "_id": {
+    "$oid": "662ba47f87415c02f6fd0f33"
+  },
+  "type": "bracelates",
+  "image_url": "../static/assets/bracelate_3.jpg",
+  "price": 149999,
+  "hover_image": "../static/assets/bracelate_3_hover.jpg",
+  "discription": "The Nadira Diamond Bangle",
+  "collection": "mirosa"
+},
+{
+  "_id": {
+    "$oid": "662ba4a787415c02f6fd0f34"
+  },
+  "type": "bracelates",
+  "image_url": "../static/assets/bracelate_4.jpg",
+  "price": 84555,
+  "hover_image": "../static/assets/bracelate_4_hover.jpg",
+  "discription": "The Edeen Diamond Bangle",
+  "collection": "mirosa"
+},
+{
+  "_id": {
+    "$oid": "662ba4c987415c02f6fd0f35"
+  },
+  "type": "bracelates",
+  "image_url": "../static/assets/bracelate_5.jpg",
+  "price": 54999,
+  "hover_image": "../static/assets/bracelate_5_hover.jpg",
+  "discription": "The Aithley Diamond Bracelet",
+  "collection": "mirosa"
+},
+{
+  "_id": {
+    "$oid": "662ba4f087415c02f6fd0f36"
+  },
+  "type": "bracelates",
+  "image_url": "../static/assets/bracelate_6.jpg",
+  "price": 154999,
+  "hover_image": "../static/assets/bracelate_6_hover.jpg",
+  "discription": "The Inghean Diamond Bangle",
+  "collection": "mirosa"
+},
+{
+  "_id": {
+    "$oid": "662ba51e87415c02f6fd0f37"
+  },
+  "type": "bracelates",
+  "image_url": "../static/assets/bracelate_7.jpg",
+  "price": 209999,
+  "hover_image": "../static/assets/bracelate_7_hover.jpg",
+  "discription": "The Gyuri Diamond Bracelet",
+  "collection": "mirosa"
+},
+{
+  "_id": {
+    "$oid": "662ba54c87415c02f6fd0f38"
+  },
+  "type": "bracelates",
+  "image_url": "../static/assets/bracelate_8.jpg",
+  "price": 134999,
+  "hover_image": "../static/assets/bracelate_8_hover.jpg",
+  "discription": "The Gaira Diamond Bangle",
+  "collection": "mirosa"
+},
+{
+  "_id": {
+    "$oid": "662ba57987415c02f6fd0f39"
+  },
+  "type": "bracelates",
+  "image_url": "../static/assets/bracelate_9.jpg",
+  "price": 155000,
+  "hover_image": "../static/assets/bracelate_9_hover.jpg",
+  "discription": "The Trevina Diamond Bangle",
+  "collection": "mirosa"
+},
+{
+  "_id": {
+    "$oid": "662ba5a887415c02f6fd0f3a"
+  },
+  "type": "bracelates",
+  "image_url": "../static/assets/bracelate_10.jpg",
+  "price": 57999,
+  "hover_image": "../static/assets/bracelate_10_hover.jpg",
+  "discription": "The Bow Heart Diamond Bracelet",
+  "collection": "mirosa"
+},
+{
+  "_id": {
+    "$oid": "662ba5db87415c02f6fd0f3b"
+  },
+  "type": "bracelates",
+  "image_url": "../static/assets/bracelate_10.jpg",
+  "price": 57999,
+  "hover_image": "../static/assets/bracelate_10_hover.jpg",
+  "discription": "The Bow Heart Diamond Bracelet",
+  "collection": "mirosa"
+}]
